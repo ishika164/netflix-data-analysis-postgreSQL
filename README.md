@@ -38,6 +38,12 @@ CREATE TABLE netflix
 );
 ```
 
+## Tools Used
+
+- **PostgreSQL:** Database & SQL execution
+- **SQL:** Data analysis queries
+- **pgAdmin:** SQL editor & query tool
+
 ## Findings and Conclusion
 
 - **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
