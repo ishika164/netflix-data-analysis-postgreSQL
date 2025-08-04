@@ -38,7 +38,7 @@ SELECT
 	type,
 	COUNT(*)
 FROM netflix
-GROUP BY 
+GROUP BY 1
 
 
 -- 2. Find the most common rating for movies and TV shows
@@ -202,3 +202,4 @@ FROM (
 ) AS categorized_content
 GROUP BY 1,2
 ORDER BY 2
+
