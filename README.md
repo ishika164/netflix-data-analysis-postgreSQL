@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# Netflix Movies and TV Shows Data Analysis using PostgreSQL
 <img width="2226" height="678" alt="logo" src="https://github.com/user-attachments/assets/445faa82-ac03-4b41-acd8-50e1c36f7383" />
 
 ## Overview
